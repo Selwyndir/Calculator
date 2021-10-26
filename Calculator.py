@@ -1,5 +1,7 @@
 print("Salut, moi c'est Selwyndir et je te présente mon Calculateur de moyenne")
 print("Veuillez mettre les notes sur 20.")
+print("Pour mettre une note sur 20 il faut diviser la note par son maximale et la multiplié par 20")
+print("Exemple: 9 sur 11. 9/11=0.8181*20= 16.36 sur 20")
 print("Pour les Coefficient si il n'y en à pas c'est 1.")
 nb=float(input("Nombre de Note"))
 if nb==1:
